@@ -1,0 +1,38 @@
+{
+    "Liga Baloncesto":[
+
+        {
+            "Posicion": 1,
+            "Equipo": "Real Madrid",
+            "PJ": 4,
+            "PG": 4,
+            "PP": 0,
+            "DIFF": 63
+        },
+        {
+            "Posicion": 2,
+            "Equipo": "Baskonia",
+            "PJ": 4,
+            "PG": 3,
+            "PP": 1,
+            "DIFF": 26
+        },
+        {
+            "Posicion": 3,
+            "Equipo": "Basket Girona",
+            "PJ": 4,
+            "PG": 3,
+            "PP": 1,
+            "DIFF": 20
+        },
+        {
+            "Posicion": 4,
+            "Equipo": "Murcia",
+            "PJ": 4,
+            "PG": 3,
+            "PP": 1,
+            "DIFF": 18
+        }
+
+    ]
+}
