@@ -1,7 +1,4 @@
-serializar
-deserializar
-crear obxectos dao
-imprimir con formato
-(mirar StringBuilder e GsonBuilder)
+    //@PrimaryKeyJoinColumn(name = "departamento", referencedColumnName = "id_departamento")
+pepedamdam
 
-cambios
+qdtc pquu chcm wfmt
